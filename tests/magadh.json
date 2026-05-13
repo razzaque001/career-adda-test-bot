@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who was the founder of the Maurya Dynasty?",
+    "options": [
+      "Ashoka",
+      "Bindusara",
+      "Chandragupta Maurya",
+      "Brihadratha"
+    ],
+    "answer": "Chandragupta Maurya"
+  },
+  {
+    "question": "Which ancient Indian text provides a detailed account of Magadh and the Mauryan administration?",
+    "options": [
+      "Arthashastra",
+      "Mahabharata",
+      "Rigveda",
+      "Upanishads"
+    ],
+    "answer": "Arthashastra"
+  },
+  {
+    "question": "During whose reign was the Third Buddhist Council held at Pataliputra?",
+    "options": [
+      "Bimbisara",
+      "Ajatashatru",
+      "Kalashoka",
+      "Ashoka"
+    ],
+    "answer": "Ashoka"
+  }
+]

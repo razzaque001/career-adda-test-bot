@@ -1,0 +1,502 @@
+[
+  {
+    "question": "Who was the founder of the Haryanka Dynasty? (हर्यक वंश का संस्थापक कौन था?)",
+    "options": [
+      "Ajatashatru (अजातशत्रु)",
+      "Bimbisara (बिम्बिसार)",
+      "Udayin (उदयन)",
+      "Nagdashak (नागदशक)"
+    ],
+    "answer": "Bimbisara (बिम्बिसार)"
+  },
+  {
+    "question": "Which ruler was the first to establish a standing army in Magadha? (मगध में स्थायी सेना रखने वाला पहला शासक कौन था?)",
+    "options": [
+      "Mahapadma Nanda (महापद्म नन्द)",
+      "Bimbisara (बिम्बिसार)",
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Ashoka (अशोक)"
+    ],
+    "answer": "Bimbisara (बिम्बिसार)"
+  },
+  {
+    "question": "In which city was the First Buddhist Council held under the patronage of Ajatashatru? (अजातशत्रु के संरक्षण में प्रथम बौद्ध संगीति किस शहर में आयोजित की गई थी?)",
+    "options": [
+      "Pataliputra (पाटलिपुत्र)",
+      "Vaishali (वैशाली)",
+      "Rajgriha (राजगृह)",
+      "Kundalvan (कुण्डलवन)"
+    ],
+    "answer": "Rajgriha (राजगृह)"
+  },
+  {
+    "question": "Who founded the city of Pataliputra? (पाटलिपुत्र नगर की स्थापना किसने की थी?)",
+    "options": [
+      "Bimbisara (बिम्बिसार)",
+      "Ajatashatru (अजातशत्रु)",
+      "Udayin (उदयन)",
+      "Shishunaga (शिशुनाग)"
+    ],
+    "answer": "Udayin (उदयन)"
+  },
+  {
+    "question": "Which Magadhan ruler is known as 'Kunika'? (किस मगध शासक को 'कुणिक' के नाम से जाना जाता है?)",
+    "options": [
+      "Bimbisara (बिम्बिसार)",
+      "Ajatashatru (अजातशत्रु)",
+      "Kalashoka (कालाशोक)",
+      "Dhanananda (घनानन्द)"
+    ],
+    "answer": "Ajatashatru (अजातशत्रु)"
+  },
+  {
+    "question": "Who was the founder of the Shishunaga Dynasty? (शिशुनाग वंश का संस्थापक कौन था?)",
+    "options": [
+      "Kalashoka (कालाशोक)",
+      "Shishunaga (शिशुनाग)",
+      "Mahapadma Nanda (महापद्म नन्द)",
+      "Nandivardhan (नंदिवर्धन)"
+    ],
+    "answer": "Shishunaga (शिशुनाग)"
+  },
+  {
+    "question": "The Second Buddhist Council was held during the reign of which king? (द्वितीय बौद्ध संगीति किस राजा के शासनकाल में आयोजित की गई थी?)",
+    "options": [
+      "Ajatashatru (अजातशत्रु)",
+      "Kalashoka (कालाशोक)",
+      "Ashoka (अशोक)",
+      "Kanishka (कनिष्क)"
+    ],
+    "answer": "Kalashoka (कालाशोक)"
+  },
+  {
+    "question": "Which ruler shifted the capital from Vaishali back to Pataliputra? (किस शासक ने राजधानी को वैशाली से वापस पाटलिपुत्र स्थानांतरित किया था?)",
+    "options": [
+      "Shishunaga (शिशुनाग)",
+      "Kalashoka (कालाशोक)",
+      "Udayin (उदयन)",
+      "Dhanananda (घनानन्द)"
+    ],
+    "answer": "Kalashoka (कालाशोक)"
+  },
+  {
+    "question": "Who is called 'Ugrasena' in Pali texts because of his huge army? (अपनी विशाल सेना के कारण पाली ग्रंथों में किसे 'उग्रसेन' कहा गया है?)",
+    "options": [
+      "Bimbisara (बिम्बिसार)",
+      "Mahapadma Nanda (महापद्म नन्द)",
+      "Ajatashatru (अजातशत्रु)",
+      "Dhanananda (घनानन्द)"
+    ],
+    "answer": "Mahapadma Nanda (महापद्म नन्द)"
+  },
+  {
+    "question": "Who was the last ruler of the Nanda Dynasty? (नन्द वंश का अंतिम शासक कौन था?)",
+    "options": [
+      "Mahapadma Nanda (महापद्म नन्द)",
+      "Panduka (पाण्डुक)",
+      "Dhanananda (घनानन्द)",
+      "Kaivarta (कैवर्त)"
+    ],
+    "answer": "Dhanananda (घनानन्द)"
+  },
+  {
+    "question": "Alexander the Great invaded India during the reign of which ruler? (सिकंदर महान ने किस शासक के शासनकाल में भारत पर आक्रमण किया था?)",
+    "options": [
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Mahapadma Nanda (महापद्म नन्द)",
+      "Dhanananda (घनानन्द)",
+      "Bimbisara (बिम्बिसार)"
+    ],
+    "answer": "Dhanananda (घनानन्द)"
+  },
+  {
+    "question": "Who was the founder of the Maurya Dynasty? (मौर्य वंश का संस्थापक कौन था?)",
+    "options": [
+      "Bindusara (बिंदुसार)",
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Ashoka (अशोक)",
+      "Brihadratha (बृहद्रथ)"
+    ],
+    "answer": "Chandragupta Maurya (चन्द्रगुप्त मौर्य)"
+  },
+  {
+    "question": "Which Greek ambassador visited the court of Chandragupta Maurya? (चन्द्रगुप्त मौर्य के दरबार में कौन सा यूनानी राजदूत आया था?)",
+    "options": [
+      "Megasthenes (मेगस्थनीज)",
+      "Deimachus (डाइमेकस)",
+      "Dionysius (डायोनिसियस)",
+      "Fa-Hien (फाह्यान)"
+    ],
+    "answer": "Megasthenes (मेगस्थनीज)"
+  },
+  {
+    "question": "Who wrote the famous book 'Arthashastra'? (प्रसिद्ध पुस्तक 'अर्थशास्त्र' किसने लिखी थी?)",
+    "options": [
+      "Megasthenes (मेगस्थनीज)",
+      "Chanakya (चाणक्य)",
+      "Vishakhadatta (विशाखदत्त)",
+      "Kalidasa (कालिदास)"
+    ],
+    "answer": "Chanakya (चाणक्य)"
+  },
+  {
+    "question": "What was the ancient name of Rajgriha? (राजगृह का प्राचीन नाम क्या था?)",
+    "options": [
+      "Kusumpura (कुसुमपुर)",
+      "Girivraja (गिरिव्रज)",
+      "Vaishali (वैशाली)",
+      "Tamralipti (ताम्रलिप्ति)"
+    ],
+    "answer": "Girivraja (गिरिव्रज)"
+  },
+  {
+    "question": "Which Magadhan king sent Jivaka to treat King Pradyota? (किस मगध राजा ने राजा प्रद्योत के इलाज के लिए जीवक को भेजा था?)",
+    "options": [
+      "Ajatashatru (अजातशत्रु)",
+      "Bimbisara (बिम्बिसार)",
+      "Udayin (उदयन)",
+      "Shishunaga (शिशुनाग)"
+    ],
+    "answer": "Bimbisara (बिम्बिसार)"
+  },
+  {
+    "question": "Chandragupta Maurya defeated which Greek general in 305 BC? (चन्द्रगुप्त मौर्य ने 305 ईसा पूर्व में किस यूनानी सेनापति को हराया था?)",
+    "options": [
+      "Alexander (सिकंदर)",
+      "Seleucus Nicator (सेल्यूकस निकेटर)",
+      "Menander (मिनांडर)",
+      "Antiochus (एंटियोकस)"
+    ],
+    "answer": "Seleucus Nicator (सेल्यूकस निकेटर)"
+  },
+  {
+    "question": "Which ruler is known as 'Amitraghata' (Slayer of foes)? (किस शासक को 'अमित्रघात' (शत्रुओं का संहारक) के रूप में जाना जाता है?)",
+    "options": [
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Bindusara (बिंदुसार)",
+      "Ashoka (अशोक)",
+      "Mahapadma Nanda (महापद्म नन्द)"
+    ],
+    "answer": "Bindusara (बिंदुसार)"
+  },
+  {
+    "question": "The Kalinga War was fought in which year? (कलिंग का युद्ध किस वर्ष लड़ा गया था?)",
+    "options": [
+      "261 BC (261 ई.पू.)",
+      "263 BC (263 ई.पू.)",
+      "273 BC (273 ई.पू.)",
+      "250 BC (250 ई.पू.)"
+    ],
+    "answer": "261 BC (261 ई.पू.)"
+  },
+  {
+    "question": "Who was the Buddhist monk who influenced Ashoka to embrace Buddhism? (अशोक को बौद्ध धर्म अपनाने के लिए प्रभावित करने वाला बौद्ध भिक्षु कौन था?)",
+    "options": [
+      "Vishnu Gupta (विष्णु गुप्त)",
+      "Upagupta (उपगुप्त)",
+      "Brahmagupta (ब्रह्मगुप्त)",
+      "Brihadratha (बृहद्रथ)"
+    ],
+    "answer": "Upagupta (उपगुप्त)"
+  },
+  {
+    "question": "Where was the Third Buddhist Council held? (तृतीय बौद्ध संगीति कहाँ आयोजित की गई थी?)",
+    "options": [
+      "Rajgriha (राजगृह)",
+      "Vaishali (वैशाली)",
+      "Pataliputra (पाटलिपुत्र)",
+      "Kashmir (कश्मीर)"
+    ],
+    "answer": "Pataliputra (पाटलिपुत्र)"
+  },
+  {
+    "question": "Which Ashokan inscription mentions the Kalinga War? (अशोक के किस शिलालेख में कलिंग युद्ध का उल्लेख है?)",
+    "options": [
+      "10th Rock Edict (10वाँ शिलालेख)",
+      "11th Rock Edict (11वाँ शिलालेख)",
+      "12th Rock Edict (12वाँ शिलालेख)",
+      "13th Rock Edict (13वाँ शिलालेख)"
+    ],
+    "answer": "13th Rock Edict (13वाँ शिलालेख)"
+  },
+  {
+    "question": "Who was the last ruler of the Maurya Dynasty? (मौर्य वंश का अंतिम शासक कौन था?)",
+    "options": [
+      "Kunala (कुणाल)",
+      "Dasharatha (दशरथ)",
+      "Samprati (सम्प्रति)",
+      "Brihadratha (बृहद्रथ)"
+    ],
+    "answer": "Brihadratha (बृहद्रथ)"
+  },
+  {
+    "question": "Which dynasty succeeded the Mauryas in Magadha? (मगध में मौर्यों के बाद किस वंश का शासन आया?)",
+    "options": [
+      "Shunga Dynasty (शुंग वंश)",
+      "Kanva Dynasty (कण्व वंश)",
+      "Satavahana Dynasty (सातवाहन वंश)",
+      "Gupta Dynasty (गुप्त वंश)"
+    ],
+    "answer": "Shunga Dynasty (शुंग वंश)"
+  },
+  {
+    "question": "Who was the author of 'Mudrarakshasa'? (‘मुद्राराक्षस’ के लेखक कौन थे?)",
+    "options": [
+      "Kautilya (कौटिल्य)",
+      "Vishakhadatta (विशाखदत्त)",
+      "Bhasa (भास)",
+      "Shudraka (शूद्रक)"
+    ],
+    "answer": "Vishakhadatta (विशाखदत्त)"
+  },
+  {
+    "question": "Which Magadhan king used 'Rathamusala' and 'Mahashilakantaka' in war? (मगध के किस राजा ने युद्ध में 'रथमूसल' और 'महाशिलाकंटक' का प्रयोग किया था?)",
+    "options": [
+      "Bimbisara (बिम्बिसार)",
+      "Ajatashatru (अजातशत्रु)",
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Shishunaga (शिशुनाग)"
+    ],
+    "answer": "Ajatashatru (अजातशत्रु)"
+  },
+  {
+    "question": "Megasthenes divided Indian society into how many classes? (मेगस्थनीज ने भारतीय समाज को कितनी श्रेणियों में विभाजित किया था?)",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": "7"
+  },
+  {
+    "question": "Which ruler sent his son Mahendra and daughter Sanghamitra to Sri Lanka? (किस शासक ने अपने पुत्र महेंद्र और पुत्री संघमित्रा को श्रीलंका भेजा था?)",
+    "options": [
+      "Bindusara (बिंदुसार)",
+      "Ashoka (अशोक)",
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Dasharatha (दशरथ)"
+    ],
+    "answer": "Ashoka (अशोक)"
+  },
+  {
+    "question": "The most famous center of education during the Mauryan period was? (मौर्य काल के दौरान शिक्षा का सबसे प्रसिद्ध केंद्र कौन सा था?)",
+    "options": [
+      "Nalanda (नालंदा)",
+      "Taxila (तक्षशिला)",
+      "Vikramshila (विक्रमशिला)",
+      "Vaishali (वैशाली)"
+    ],
+    "answer": "Taxila (तक्षशिला)"
+  },
+  {
+    "question": "Who was the founder of the Shunga Dynasty? (शुंग वंश का संस्थापक कौन था?)",
+    "options": [
+      "Pushyamitra Shunga (पुष्यमित्र शुंग)",
+      "Agnimitra (अग्निमित्र)",
+      "Vasumitra (वसुमित्र)",
+      "Devabhuti (देवभूति)"
+    ],
+    "answer": "Pushyamitra Shunga (पुष्यमित्र शुंग)"
+  },
+  {
+    "question": "Who was the founder of the Kanva Dynasty? (कण्व वंश का संस्थापक कौन था?)",
+    "options": [
+      "Vasudeva (वसुदेव)",
+      "Bhumimitra (भूमिमित्र)",
+      "Narayana (नारायण)",
+      "Susharman (सुशर्मन)"
+    ],
+    "answer": "Vasudeva (वसुदेव)"
+  },
+  {
+    "question": "Who was the first Indian king to issue coins with his own image? (अपनी छवि वाले सिक्के जारी करने वाला पहला भारतीय राजा कौन था?)",
+    "options": [
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Ashoka (अशोक)",
+      "Indo-Greeks (हिंद-यूनानी)",
+      "Samudragupta (समुद्रगुप्त)"
+    ],
+    "answer": "Indo-Greeks (हिंद-यूनानी)"
+  },
+  {
+    "question": "The capital of the Shunga Dynasty was? (शुंग वंश की राजधानी क्या थी?)",
+    "options": [
+      "Pataliputra (पाटलिपुत्र)",
+      "Vidisha (विदिशा)",
+      "Rajgriha (राजगृह)",
+      "Varanasi (वाराणसी)"
+    ],
+    "answer": "Pataliputra (पाटलिपुत्र)"
+  },
+  {
+    "question": "Who performed two Ashvamedha Yajnas according to Ayodhya Inscription? (अयोध्या शिलालेख के अनुसार किसने दो अश्वमेध यज्ञ किए थे?)",
+    "options": [
+      "Samudragupta (समुद्रगुप्त)",
+      "Pushyamitra Shunga (पुष्यमित्र शुंग)",
+      "Ashoka (अशोक)",
+      "Bimbisara (बिम्बिसार)"
+    ],
+    "answer": "Pushyamitra Shunga (पुष्यमित्र शुंग)"
+  },
+  {
+    "question": "Who is known as 'The Napoleon of India'? (किसे 'भारत का नेपोलियन' कहा जाता है?)",
+    "options": [
+      "Chandragupta I (चन्द्रगुप्त प्रथम)",
+      "Samudragupta (समुद्रगुप्त)",
+      "Chandragupta II (चन्द्रगुप्त द्वितीय)",
+      "Skandagupta (स्कंदगुप्त)"
+    ],
+    "answer": "Samudragupta (समुद्रगुप्त)"
+  },
+  {
+    "question": "Who was the last king of the Kanva Dynasty? (कण्व वंश का अंतिम राजा कौन था?)",
+    "options": [
+      "Vasudeva (वसुदेव)",
+      "Susharman (सुशर्मन)",
+      "Narayana (नारायण)",
+      "Simuka (सिमुक)"
+    ],
+    "answer": "Susharman (सुशर्मन)"
+  },
+  {
+    "question": "Which Gupta king defeated the Shakas and took the title of 'Vikramaditya'? (किस गुप्त राजा ने शकों को हराया और 'विक्रमादित्य' की उपाधि धारण की?)",
+    "options": [
+      "Chandragupta I (चन्द्रगुप्त प्रथम)",
+      "Samudragupta (समुद्रगुप्त)",
+      "Chandragupta II (चन्द्रगुप्त द्वितीय)",
+      "Kumaragupta (कुमारगुप्त)"
+    ],
+    "answer": "Chandragupta II (चन्द्रगुप्त द्वितीय)"
+  },
+  {
+    "question": "Who was the founder of the Gupta Dynasty? (गुप्त वंश का संस्थापक कौन था?)",
+    "options": [
+      "Chandragupta I (चन्द्रगुप्त प्रथम)",
+      "Sri Gupta (श्री गुप्त)",
+      "Ghatotkacha (घटोत्कच)",
+      "Samudragupta (समुद्रगुप्त)"
+    ],
+    "answer": "Sri Gupta (श्री गुप्त)"
+  },
+  {
+    "question": "During whose reign did the Chinese pilgrim Fa-Hien visit India? (चीनी यात्री फाह्यान किसके शासनकाल में भारत आया था?)",
+    "options": [
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Ashoka (अशोक)",
+      "Chandragupta II (चन्द्रगुप्त द्वितीय)",
+      "Harshavardhana (हर्षवर्धन)"
+    ],
+    "answer": "Chandragupta II (चन्द्रगुप्त द्वितीय)"
+  },
+  {
+    "question": "Who founded the Nalanda University? (नालंदा विश्वविद्यालय की स्थापना किसने की थी?)",
+    "options": [
+      "Samudragupta (समुद्रगुप्त)",
+      "Kumaragupta I (कुमारगुप्त प्रथम)",
+      "Skandagupta (स्कंदगुप्त)",
+      "Dharmapala (धर्मपाल)"
+    ],
+    "answer": "Kumaragupta I (कुमारगुप्त प्रथम)"
+  },
+  {
+    "question": "Which river is associated with the battle between Alexander and Porus? (सिकंदर और पोरस के बीच युद्ध किस नदी से संबंधित है?)",
+    "options": [
+      "Indus (सिंधु)",
+      "Jhelum (झेलम)",
+      "Chenab (चिनाब)",
+      "Ravi (रावी)"
+    ],
+    "answer": "Jhelum (झेलम)"
+  },
+  {
+    "question": "Which ruler was called 'Ekarat' (Sole Sovereign)? (किस शासक को 'एकराट' कहा गया था?)",
+    "options": [
+      "Bimbisara (बिम्बिसार)",
+      "Ajatashatru (अजातशत्रु)",
+      "Mahapadma Nanda (महापद्म नन्द)",
+      "Ashoka (अशोक)"
+    ],
+    "answer": "Mahapadma Nanda (महापद्म नन्द)"
+  },
+  {
+    "question": "Who is known as the 'Light of Asia'? (किसे 'एशिया का ज्योति पुंज' कहा जाता है?)",
+    "options": [
+      "Mahavira (महावीर)",
+      "Gautama Buddha (गौतम बुद्ध)",
+      "Ashoka (अशोक)",
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)"
+    ],
+    "answer": "Gautama Buddha (गौतम बुद्ध)"
+  },
+  {
+    "question": "What was the main source of income for the Magadh Empire? (मगध साम्राज्य की आय का मुख्य स्रोत क्या था?)",
+    "options": [
+      "Trade (व्यापार)",
+      "Land Revenue (भू-राजस्व)",
+      "Mining (खनन)",
+      "Loot in wars (युद्ध में लूट)"
+    ],
+    "answer": "Land Revenue (भू-राजस्व)"
+  },
+  {
+    "question": "Which Mauryan ruler abdicated the throne and went to Shravanabelagola? (किस मौर्य शासक ने सिंहासन त्याग दिया और श्रवणबेलगोला चले गए?)",
+    "options": [
+      "Ashoka (अशोक)",
+      "Bindusara (बिंदुसार)",
+      "Chandragupta Maurya (चन्द्रगुप्त मौर्य)",
+      "Kunala (कुणाल)"
+    ],
+    "answer": "Chandragupta Maurya (चन्द्रगुप्त मौर्य)"
+  },
+  {
+    "question": "Who was the Prime Minister of Chandragupta Maurya? (चन्द्रगुप्त मौर्य का प्रधानमंत्री कौन था?)",
+    "options": [
+      "Radhagupta (राधागुप्त)",
+      "Chanakya (चाणक्य)",
+      "Upagupta (उपगुप्त)",
+      "Jivaka (जीवक)"
+    ],
+    "answer": "Chanakya (चाणक्य)"
+  },
+  {
+    "question": "The lion capital of Sanchi/Sarnath belongs to which king? (सांची/सारनाथ का सिंह स्तंभ किस राजा का है?)",
+    "options": [
+      "Chandragupta (चन्द्रगुप्त)",
+      "Ashoka (अशोक)",
+      "Kanishka (कनिष्क)",
+      "Harshavardhana (हर्षवर्धन)"
+    ],
+    "answer": "Ashoka (अशोक)"
+  },
+  {
+    "question": "Which ancient Indian text mentions the 16 Mahajanapadas? (किस प्राचीन भारतीय ग्रंथ में 16 महाजनपदों का उल्लेख है?)",
+    "options": [
+      "Rigveda (ऋग्वेद)",
+      "Anguttara Nikaya (अंगुत्तर निकाय)",
+      "Arthashastra (अर्थशास्त्र)",
+      "Indica (इंडिका)"
+    ],
+    "answer": "Anguttara Nikaya (अंगुत्तर निकाय)"
+  },
+  {
+    "question": "Who founded the Pala Dynasty in Magadha/Bengal? (मगध/बंगाल में पाल वंश की स्थापना किसने की थी?)",
+    "options": [
+      "Dharmapala (धर्मपाल)",
+      "Gopala (गोपाल)",
+      "Devapala (देवपाल)",
+      "Mahipala (महिपाल)"
+    ],
+    "answer": "Gopala (गोपाल)"
+  },
+  {
+    "question": "What was the language of Ashokan inscriptions? (अशोक के शिलालेखों की भाषा क्या थी?)",
+    "options": [
+      "Sanskrit (संस्कृत)",
+      "Pali (पाली)",
+      "Prakrit (प्राकृत)",
+      "Hindi (हिंदी)"
+    ],
+    "answer": "Prakrit (प्राकृत)"
+  }
+]
