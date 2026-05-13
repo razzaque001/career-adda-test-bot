@@ -1,0 +1,5 @@
+øvenv/
+.env
+__pycache__/
+*.pyc
+
