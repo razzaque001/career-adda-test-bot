@@ -3,6 +3,7 @@ import json
 import random
 import glob
 import logging
+import asyncio
 from dotenv import load_dotenv
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import (
@@ -401,6 +402,14 @@ def main():
     if not TOKEN:
         logger.error("TOKEN not found in .env")
         return
+
+    # --- RENDER FIX: Explicitly create and set the event loop ---
+    try:
+        loop = asyncio.get_event_loop()
+    except RuntimeError:
+        loop = asyncio.new_event_loop()
+        asyncio.set_event_loop(loop)
+    # ------------------------------------------------------------
 
     application = Application.builder().token(TOKEN).build()
 
