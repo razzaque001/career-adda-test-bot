@@ -1,0 +1,252 @@
+[
+  {
+    "question": "What is the cube of 1?",
+    "options": ["1", "3", "2", "0"],
+    "answer": "1"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": ["4", "6", "8", "16"],
+    "answer": "8"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": ["9", "18", "27", "36"],
+    "answer": "27"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": ["16", "32", "64", "128"],
+    "answer": "64"
+  },
+  {
+    "question": "What is the cube of 5?",
+    "options": ["25", "75", "125", "150"],
+    "answer": "125"
+  },
+  {
+    "question": "What is the cube of 6?",
+    "options": ["36", "108", "216", "256"],
+    "answer": "216"
+  },
+  {
+    "question": "What is the cube of 7?",
+    "options": ["49", "147", "243", "343"],
+    "answer": "343"
+  },
+  {
+    "question": "What is the cube of 8?",
+    "options": ["64", "256", "512", "576"],
+    "answer": "512"
+  },
+  {
+    "question": "What is the cube of 9?",
+    "options": ["81", "243", "729", "810"],
+    "answer": "729"
+  },
+  {
+    "question": "What is the cube of 10?",
+    "options": ["100", "500", "1000", "2000"],
+    "answer": "1000"
+  },
+  {
+    "question": "What is the cube of 11?",
+    "options": ["121", "1321", "1331", "1441"],
+    "answer": "1331"
+  },
+  {
+    "question": "What is the cube of 12?",
+    "options": ["144", "1724", "1728", "1736"],
+    "answer": "1728"
+  },
+  {
+    "question": "What is the cube of 13?",
+    "options": ["169", "2167", "2197", "2207"],
+    "answer": "2197"
+  },
+  {
+    "question": "What is the cube of 14?",
+    "options": ["196", "2736", "2744", "2756"],
+    "answer": "2744"
+  },
+  {
+    "question": "What is the cube of 15?",
+    "options": ["225", "3325", "3375", "3425"],
+    "answer": "3375"
+  },
+  {
+    "question": "What is the cube of 16?",
+    "options": ["256", "4086", "4096", "4106"],
+    "answer": "4096"
+  },
+  {
+    "question": "What is the cube of 17?",
+    "options": ["289", "4903", "4913", "4923"],
+    "answer": "4913"
+  },
+  {
+    "question": "What is the cube of 18?",
+    "options": ["324", "5822", "5832", "5842"],
+    "answer": "5832"
+  },
+  {
+    "question": "What is the cube of 19?",
+    "options": ["361", "6849", "6859", "6869"],
+    "answer": "6859"
+  },
+  {
+    "question": "What is the cube of 20?",
+    "options": ["400", "4000", "6000", "8000"],
+    "answer": "8000"
+  },
+  {
+    "question": "What is the cube of 21?",
+    "options": ["441", "9251", "9261", "9271"],
+    "answer": "9261"
+  },
+  {
+    "question": "What is the cube of 22?",
+    "options": ["484", "10638", "10648", "10658"],
+    "answer": "10648"
+  },
+  {
+    "question": "What is the cube of 23?",
+    "options": ["529", "12157", "12167", "12177"],
+    "answer": "12167"
+  },
+  {
+    "question": "What is the cube of 24?",
+    "options": ["576", "13814", "13824", "13834"],
+    "answer": "13824"
+  },
+  {
+    "question": "What is the cube of 25?",
+    "options": ["625", "15525", "15625", "15725"],
+    "answer": "15625"
+  },
+  {
+    "question": "What is the cube of 26?",
+    "options": ["676", "17566", "17576", "17586"],
+    "answer": "17576"
+  },
+  {
+    "question": "What is the cube of 27?",
+    "options": ["729", "19673", "19683", "19693"],
+    "answer": "19683"
+  },
+  {
+    "question": "What is the cube of 28?",
+    "options": ["784", "21942", "21952", "21962"],
+    "answer": "21952"
+  },
+  {
+    "question": "What is the cube of 29?",
+    "options": ["841", "24379", "24389", "24399"],
+    "answer": "24389"
+  },
+  {
+    "question": "What is the cube of 30?",
+    "options": ["900", "9000", "18000", "27000"],
+    "answer": "27000"
+  },
+  {
+    "question": "What is the cube of 31?",
+    "options": ["961", "29781", "29791", "29801"],
+    "answer": "29791"
+  },
+  {
+    "question": "What is the cube of 32?",
+    "options": ["1024", "32758", "32768", "32778"],
+    "answer": "32768"
+  },
+  {
+    "question": "What is the cube of 33?",
+    "options": ["1089", "35927", "35937", "35947"],
+    "answer": "35937"
+  },
+  {
+    "question": "What is the cube of 34?",
+    "options": ["1156", "39294", "39304", "39314"],
+    "answer": "39304"
+  },
+  {
+    "question": "What is the cube of 35?",
+    "options": ["1225", "42825", "42875", "42925"],
+    "answer": "42875"
+  },
+  {
+    "question": "What is the cube of 36?",
+    "options": ["1296", "46646", "46656", "46666"],
+    "answer": "46656"
+  },
+  {
+    "question": "What is the cube of 37?",
+    "options": ["1369", "50643", "50653", "50663"],
+    "answer": "50653"
+  },
+  {
+    "question": "What is the cube of 38?",
+    "options": ["1444", "54862", "54872", "54882"],
+    "answer": "54872"
+  },
+  {
+    "question": "What is the cube of 39?",
+    "options": ["1521", "59309", "59319", "59329"],
+    "answer": "59319"
+  },
+  {
+    "question": "What is the cube of 40?",
+    "options": ["1600", "16000", "32000", "64000"],
+    "answer": "64000"
+  },
+  {
+    "question": "What is the cube of 41?",
+    "options": ["1681", "68911", "68921", "68931"],
+    "answer": "68921"
+  },
+  {
+    "question": "What is the cube of 42?",
+    "options": ["1764", "74078", "74088", "74098"],
+    "answer": "74088"
+  },
+  {
+    "question": "What is the cube of 43?",
+    "options": ["1849", "79497", "79507", "79517"],
+    "answer": "79507"
+  },
+  {
+    "question": "What is the cube of 44?",
+    "options": ["1936", "85174", "85184", "85194"],
+    "answer": "85184"
+  },
+  {
+    "question": "What is the cube of 45?",
+    "options": ["2025", "91115", "91125", "91135"],
+    "answer": "91125"
+  },
+  {
+    "question": "What is the cube of 46?",
+    "options": ["2116", "97326", "97336", "97346"],
+    "answer": "97336"
+  },
+  {
+    "question": "What is the cube of 47?",
+    "options": ["2209", "103813", "103823", "103833"],
+    "answer": "103823"
+  },
+  {
+    "question": "What is the cube of 48?",
+    "options": ["2304", "110582", "110592", "110602"],
+    "answer": "110592"
+  },
+  {
+    "question": "What is the cube of 49?",
+    "options": ["2401", "117639", "117649", "117659"],
+    "answer": "117649"
+  },
+  {
+    "question": "What is the cube of 50?",
+    "options": ["2500", "25000", "125000", "250000"],
+    "answer": "125000"
+  }
+]
