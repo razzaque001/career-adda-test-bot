@@ -1,0 +1,802 @@
+[
+{
+"set": 1,
+"question_no": 1,
+"type": "synonym",
+"question": "Choose the synonym of 'Mitigate'.",
+"options": [
+"Aggravate",
+"Alleviate",
+"Intensify",
+"Provoke"
+],
+"answer": "Alleviate",
+"explanation": "Mitigate means to make less severe, serious, or painful. Alleviate is its closest synonym.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 2,
+"type": "antonym",
+"question": "Choose the antonym of 'Obsolete'.",
+"options": [
+"Outdated",
+"Contemporary",
+"Ancient",
+"Rigid"
+],
+"answer": "Contemporary",
+"explanation": "Obsolete means no longer produced or used; out of date. Contemporary means belonging to or occurring in the present.",
+"difficulty": "easy",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 3,
+"type": "fill_in_the_blanks",
+"question": "It is always ______ to keep a backup of your important files.",
+"options": [
+"Careless",
+"Prudent",
+"Reckless",
+"Hasty"
+],
+"answer": "Prudent",
+"explanation": "Prudent means acting with or showing care and thought for the future. It fits perfectly in the context of keeping a backup.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 4,
+"type": "contextual_vocabulary",
+"question": "The manager was reluctant to approve the highly risky proposal.",
+"options": [
+"Eager",
+"Hesitant",
+"Anxious",
+"Desperate"
+],
+"answer": "Hesitant",
+"explanation": "Reluctant means unwilling and hesitant.",
+"difficulty": "easy",
+"exam_level": "SSC CPO"
+},
+{
+"set": 1,
+"question_no": 5,
+"type": "one_word_replacement",
+"question": "A solution or remedy for all difficulties or diseases.",
+"options": [
+"Panacea",
+"Antibiotic",
+"Placebo",
+"Antidote"
+],
+"answer": "Panacea",
+"explanation": "A panacea is defined as a solution or remedy for all difficulties or diseases. It is a highly repeated OWS in SSC.",
+"difficulty": "easy",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 6,
+"type": "synonym",
+"question": "Choose the synonym of 'Candid'.",
+"options": [
+"Deceitful",
+"Frank",
+"Secretive",
+"Crafty"
+],
+"answer": "Frank",
+"explanation": "Candid means truthful and straightforward; frank.",
+"difficulty": "easy",
+"exam_level": "SSC MTS"
+},
+{
+"set": 1,
+"question_no": 7,
+"type": "antonym",
+"question": "Choose the antonym of 'Hostile'.",
+"options": [
+"Amiable",
+"Aggressive",
+"Violent",
+"Fierce"
+],
+"answer": "Amiable",
+"explanation": "Hostile means showing or feeling opposition or dislike; unfriendly. Amiable means having or displaying a friendly and pleasant manner.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 8,
+"type": "synonym",
+"question": "Choose the synonym of 'Redundant'.",
+"options": [
+"Essential",
+"Superfluous",
+"Concise",
+"Necessary"
+],
+"answer": "Superfluous",
+"explanation": "Redundant means not or no longer needed or useful; superfluous.",
+"difficulty": "moderate",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 9,
+"type": "antonym",
+"question": "Choose the antonym of 'Fragile'.",
+"options": [
+"Delicate",
+"Brittle",
+"Sturdy",
+"Feeble"
+],
+"answer": "Sturdy",
+"explanation": "Fragile means easily broken or damaged. Sturdy means strongly and solidly built.",
+"difficulty": "easy",
+"exam_level": "SSC MTS"
+},
+{
+"set": 1,
+"question_no": 10,
+"type": "fill_in_the_blanks",
+"question": "The fall of the empire was ______, given the rampant corruption in the administration.",
+"options": [
+"Avoidable",
+"Inevitable",
+"Unlikely",
+"Doubtful"
+],
+"answer": "Inevitable",
+"explanation": "Inevitable means certain to happen; unavoidable. The context indicates that corruption made the fall certain.",
+"difficulty": "easy",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 11,
+"type": "sentence_improvement_vocabulary",
+"question": "The instructions given by the supervisor were so 'ambiguous' that nobody knew what to do.",
+"options": [
+"Clear",
+"Lucid",
+"Vague",
+"Explicit"
+],
+"answer": "Vague",
+"explanation": "Ambiguous means open to more than one interpretation; not having one obvious meaning. 'Vague' is the closest meaning here that fits the negative context.",
+"difficulty": "moderate",
+"exam_level": "SSC CPO"
+},
+{
+"set": 1,
+"question_no": 12,
+"type": "synonym",
+"question": "Choose the synonym of 'Enhance'.",
+"options": [
+"Diminish",
+"Improve",
+"Degrade",
+"Lessen"
+],
+"answer": "Improve",
+"explanation": "Enhance means to intensify, increase, or further improve the quality, value, or extent of.",
+"difficulty": "easy",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 13,
+"type": "antonym",
+"question": "Choose the antonym of 'Stern'.",
+"options": [
+"Lenient",
+"Strict",
+"Harsh",
+"Rigid"
+],
+"answer": "Lenient",
+"explanation": "Stern means strict and uncompromising. Lenient is its exact opposite, meaning more merciful or tolerant.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 14,
+"type": "fill_in_the_blanks",
+"question": "Data entry can be a very ______ job if you have to do it for eight hours straight.",
+"options": [
+"Exhilarating",
+"Tedious",
+"Fascinating",
+"Engaging"
+],
+"answer": "Tedious",
+"explanation": "Tedious means too long, slow, or dull; tiresome or monotonous.",
+"difficulty": "easy",
+"exam_level": "SSC MTS"
+},
+{
+"set": 1,
+"question_no": 15,
+"type": "contextual_vocabulary",
+"question": "Despite the severe economic crisis, the CEO remained optimistic about the company's future.",
+"options": [
+"Pessimistic",
+"Hopeful",
+"Cynical",
+"Indifferent"
+],
+"answer": "Hopeful",
+"explanation": "Optimistic means hopeful and confident about the future.",
+"difficulty": "easy",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 16,
+"type": "one_word_replacement",
+"question": "A person who is very selective, disgusted easily, and is hard to please.",
+"options": [
+"Fastidious",
+"Gullible",
+"Misanthrope",
+"Amateur"
+],
+"answer": "Fastidious",
+"explanation": "Fastidious refers to someone who is very attentive to and concerned about accuracy and detail, often hard to please.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 17,
+"type": "synonym",
+"question": "Choose the synonym of 'Concise'.",
+"options": [
+"Lengthy",
+"Wordy",
+"Brief",
+"Rambling"
+],
+"answer": "Brief",
+"explanation": "Concise means giving a lot of information clearly and in a few words; brief but comprehensive.",
+"difficulty": "easy",
+"exam_level": "SSC MTS"
+},
+{
+"set": 1,
+"question_no": 18,
+"type": "antonym",
+"question": "Choose the antonym of 'Vulnerable'.",
+"options": [
+"Susceptible",
+"Defenseless",
+"Secure",
+"Exposed"
+],
+"answer": "Secure",
+"explanation": "Vulnerable means susceptible to physical or emotional attack or harm. Secure means protected against danger or threat.",
+"difficulty": "moderate",
+"exam_level": "SSC CPO"
+},
+{
+"set": 1,
+"question_no": 19,
+"type": "idiomatic_vocabulary_usage",
+"question": "The unexpected news of his promotion came as a ______.",
+"options": [
+"Piece of cake",
+"Bolt from the blue",
+"Blessing in disguise",
+"Wild goose chase"
+],
+"answer": "Bolt from the blue",
+"explanation": "'A bolt from the blue' means a sudden, unexpected event.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 20,
+"type": "synonym",
+"question": "Choose the synonym of 'Meticulous'.",
+"options": [
+"Careless",
+"Sloppy",
+"Painstaking",
+"Hasty"
+],
+"answer": "Painstaking",
+"explanation": "Meticulous means showing great attention to detail; very careful and precise. Painstaking is an exact synonym.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 21,
+"type": "antonym",
+"question": "Choose the antonym of 'Erratic'.",
+"options": [
+"Unpredictable",
+"Consistent",
+"Volatile",
+"Irregular"
+],
+"answer": "Consistent",
+"explanation": "Erratic means not even or regular in pattern or movement; unpredictable. Consistent is the opposite.",
+"difficulty": "moderate",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 22,
+"type": "fill_in_the_blanks",
+"question": "The company suffered a ______ loss due to the sudden market crash.",
+"options": [
+"Trivial",
+"Colossal",
+"Negligible",
+"Minute"
+],
+"answer": "Colossal",
+"explanation": "Colossal means extremely large or great. The context of a 'sudden market crash' implies a huge loss.",
+"difficulty": "moderate",
+"exam_level": "SSC CPO"
+},
+{
+"set": 1,
+"question_no": 23,
+"type": "contextual_vocabulary",
+"question": "His true motives remain an 'enigma' to all his colleagues.",
+"options": [
+"Mystery",
+"Clarity",
+"Certainty",
+"Revelation"
+],
+"answer": "Mystery",
+"explanation": "An enigma is a person or thing that is mysterious or difficult to understand.",
+"difficulty": "easy",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 24,
+"type": "one_word_replacement",
+"question": "Lasting for a very short time.",
+"options": [
+"Eternal",
+"Perpetual",
+"Ephemeral",
+"Immortal"
+],
+"answer": "Ephemeral",
+"explanation": "Ephemeral means lasting for a very short time. It is a highly asked word in SSC exams.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 25,
+"type": "synonym",
+"question": "Choose the synonym of 'Vindictive'.",
+"options": [
+"Forgiving",
+"Revengeful",
+"Compassionate",
+"Merciful"
+],
+"answer": "Revengeful",
+"explanation": "Vindictive means having or showing a strong or unreasoning desire for revenge.",
+"difficulty": "moderate",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 26,
+"type": "antonym",
+"question": "Choose the antonym of 'Lethargic'.",
+"options": [
+"Sluggish",
+"Energetic",
+"Apathetic",
+"Lazy"
+],
+"answer": "Energetic",
+"explanation": "Lethargic means affected by lethargy; sluggish and apathetic. Energetic is its direct antonym.",
+"difficulty": "easy",
+"exam_level": "SSC MTS"
+},
+{
+"set": 1,
+"question_no": 27,
+"type": "closest_meaning",
+"question": "Which of the following is closest in meaning to 'Abridge'?",
+"options": [
+"Expand",
+"Shorten",
+"Extend",
+"Stretch"
+],
+"answer": "Shorten",
+"explanation": "Abridge means to shorten (a book, film, speech, etc.) without losing the sense.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 28,
+"type": "fill_in_the_blanks",
+"question": "He took a second job to ______ his income.",
+"options": [
+"Deplete",
+"Augment",
+"Decrease",
+"Curtail"
+],
+"answer": "Augment",
+"explanation": "Augment means to make (something) greater by adding to it; increase.",
+"difficulty": "moderate",
+"exam_level": "SSC CPO"
+},
+{
+"set": 1,
+"question_no": 29,
+"type": "idiomatic_vocabulary_usage",
+"question": "I can't go to the party tonight; I am feeling a bit ______.",
+"options": [
+"Over the moon",
+"Under the weather",
+"On cloud nine",
+"In the dark"
+],
+"answer": "Under the weather",
+"explanation": "To feel 'under the weather' means to feel mildly ill.",
+"difficulty": "easy",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 30,
+"type": "contextual_vocabulary",
+"question": "The 'benevolent' old man donated his entire life savings to the orphanage.",
+"options": [
+"Malevolent",
+"Generous",
+"Miserly",
+"Cruel"
+],
+"answer": "Generous",
+"explanation": "Benevolent means well-meaning and kindly; generous.",
+"difficulty": "easy",
+"exam_level": "SSC MTS"
+},
+{
+"set": 1,
+"question_no": 31,
+"type": "synonym",
+"question": "Choose the synonym of 'Callous'.",
+"options": [
+"Sensitive",
+"Sympathetic",
+"Insensitive",
+"Caring"
+],
+"answer": "Insensitive",
+"explanation": "Callous means showing or having an insensitive and cruel disregard for others.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 32,
+"type": "antonym",
+"question": "Choose the antonym of 'Dearth'.",
+"options": [
+"Scarcity",
+"Shortage",
+"Abundance",
+"Lack"
+],
+"answer": "Abundance",
+"explanation": "Dearth means a scarcity or lack of something. Abundance is its antonym.",
+"difficulty": "moderate",
+"exam_level": "SSC CPO"
+},
+{
+"set": 1,
+"question_no": 33,
+"type": "one_word_replacement",
+"question": "A harsh, discordant mixture of sounds.",
+"options": [
+"Symphony",
+"Harmony",
+"Cacophony",
+"Melody"
+],
+"answer": "Cacophony",
+"explanation": "Cacophony means a harsh, discordant mixture of sounds.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 34,
+"type": "fill_in_the_blanks",
+"question": "Despite his nerves, he delivered an ______ speech that moved the entire audience.",
+"options": [
+"Inarticulate",
+"Eloquent",
+"Hesitant",
+"Mumbled"
+],
+"answer": "Eloquent",
+"explanation": "Eloquent means fluent or persuasive in speaking or writing.",
+"difficulty": "easy",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 35,
+"type": "sentence_improvement_vocabulary",
+"question": "All his attempts to convince the stubbornly ignorant crowd proved 'futile'.",
+"options": [
+"Fruitful",
+"Productive",
+"Useless",
+"Successful"
+],
+"answer": "Useless",
+"explanation": "Futile means incapable of producing any useful result; pointless.",
+"difficulty": "moderate",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 36,
+"type": "synonym",
+"question": "Choose the synonym of 'Gregarious'.",
+"options": [
+"Introverted",
+"Sociable",
+"Reclusive",
+"Solitary"
+],
+"answer": "Sociable",
+"explanation": "Gregarious means fond of company; sociable.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 37,
+"type": "antonym",
+"question": "Choose the antonym of 'Haughty'.",
+"options": [
+"Arrogant",
+"Proud",
+"Humble",
+"Conceited"
+],
+"answer": "Humble",
+"explanation": "Haughty means arrogantly superior and disdainful. Humble is the direct opposite.",
+"difficulty": "moderate",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 38,
+"type": "contextual_vocabulary",
+"question": "The chef's 'impeccable' attention to detail earned the restaurant its third Michelin star.",
+"options": [
+"Flawed",
+"Faultless",
+"Mediocre",
+"Sloppy"
+],
+"answer": "Faultless",
+"explanation": "Impeccable means in accordance with the highest standards; faultless.",
+"difficulty": "easy",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 39,
+"type": "idiomatic_vocabulary_usage",
+"question": "By revealing the secret launch date, he accidentally ______.",
+"options": [
+"Spilled the beans",
+"Bit the bullet",
+"Broke the ice",
+"Faced the music"
+],
+"answer": "Spilled the beans",
+"explanation": "To 'spill the beans' means to reveal secret information unintentionally or indiscreetly.",
+"difficulty": "easy",
+"exam_level": "SSC MTS"
+},
+{
+"set": 1,
+"question_no": 40,
+"type": "synonym",
+"question": "Choose the synonym of 'Jubilant'.",
+"options": [
+"Sorrowful",
+"Despondent",
+"Triumphant",
+"Depressed"
+],
+"answer": "Triumphant",
+"explanation": "Jubilant means feeling or expressing great happiness and triumph.",
+"difficulty": "moderate",
+"exam_level": "SSC CPO"
+},
+{
+"set": 1,
+"question_no": 41,
+"type": "one_word_replacement",
+"question": "The sound of a bell rung solemnly, especially for a death or funeral.",
+"options": [
+"Chime",
+"Knell",
+"Tinkle",
+"Peal"
+],
+"answer": "Knell",
+"explanation": "A knell is the sound of a bell, especially when rung solemnly for a death or funeral.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 42,
+"type": "fill_in_the_blanks",
+"question": "The professor's explanation was so ______ that even the beginners understood the complex theorem.",
+"options": [
+"Confusing",
+"Lucid",
+"Muddled",
+"Obscure"
+],
+"answer": "Lucid",
+"explanation": "Lucid means expressed clearly; easy to understand.",
+"difficulty": "moderate",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 43,
+"type": "synonym",
+"question": "Choose the synonym of 'Morose'.",
+"options": [
+"Cheerful",
+"Gloomy",
+"Joyful",
+"Optimistic"
+],
+"answer": "Gloomy",
+"explanation": "Morose means sullen and ill-tempered; gloomy.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 44,
+"type": "antonym",
+"question": "Choose the antonym of 'Novice'.",
+"options": [
+"Beginner",
+"Amateur",
+"Veteran",
+"Learner"
+],
+"answer": "Veteran",
+"explanation": "A novice is a person new to or inexperienced in a field or situation. A veteran is a person who has had long experience in a particular field.",
+"difficulty": "easy",
+"exam_level": "SSC MTS"
+},
+{
+"set": 1,
+"question_no": 45,
+"type": "closest_meaning",
+"question": "Which of the following is closest in meaning to 'Opaque'?",
+"options": [
+"Transparent",
+"Clear",
+"Non-transparent",
+"Translucent"
+],
+"answer": "Non-transparent",
+"explanation": "Opaque means not able to be seen through; not transparent.",
+"difficulty": "easy",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 46,
+"type": "fill_in_the_blanks",
+"question": "The management tried to ______ the angry workers by offering a minor pay hike.",
+"options": [
+"Provoke",
+"Enrage",
+"Placate",
+"Agitate"
+],
+"answer": "Placate",
+"explanation": "Placate means to make (someone) less angry or hostile. It fits the context of dealing with angry workers.",
+"difficulty": "difficult",
+"exam_level": "SSC CPO"
+},
+{
+"set": 1,
+"question_no": 47,
+"type": "contextual_vocabulary",
+"question": "His 'quixotic' plans to save the world, while noble, were completely impractical.",
+"options": [
+"Pragmatic",
+"Idealistic",
+"Realistic",
+"Cynical"
+],
+"answer": "Idealistic",
+"explanation": "Quixotic means exceedingly idealistic; unrealistic and impractical.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 48,
+"type": "synonym",
+"question": "Choose the synonym of 'Revere'.",
+"options": [
+"Despise",
+"Respect",
+"Mock",
+"Ridicule"
+],
+"answer": "Respect",
+"explanation": "Revere means to feel deep respect or admiration for (something).",
+"difficulty": "moderate",
+"exam_level": "SSC CHSL"
+},
+{
+"set": 1,
+"question_no": 49,
+"type": "one_word_replacement",
+"question": "A person who acts obsequiously toward someone important in order to gain advantage.",
+"options": [
+"Sycophant",
+"Leader",
+"Rebel",
+"Critic"
+],
+"answer": "Sycophant",
+"explanation": "A sycophant is a person who acts obsequiously towards someone important in order to gain advantage; a yes-man.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+},
+{
+"set": 1,
+"question_no": 50,
+"type": "antonym",
+"question": "Choose the antonym of 'Taciturn'.",
+"options": [
+"Reserved",
+"Talkative",
+"Quiet",
+"Silent"
+],
+"answer": "Talkative",
+"explanation": "Taciturn refers to a person who is reserved or uncommunicative in speech; saying little. Talkative is the opposite.",
+"difficulty": "difficult",
+"exam_level": "SSC CGL"
+}
+]
